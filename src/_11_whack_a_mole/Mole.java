@@ -1,3 +1,4 @@
+package _11_whack_a_mole;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
